@@ -7,3 +7,4 @@
 * ozark
 * shooter
 * manhunt: unabomber
+* the assassination of Gianni Versache
